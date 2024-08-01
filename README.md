@@ -1,1 +1,1 @@
-este proyecto es una prueva de como crear un repositorio y clonarlo desde github a mi computadora
+Juan manuel salas martinez este en una prueva 
